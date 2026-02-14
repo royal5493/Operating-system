@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1770781642 source:c:\users\jaswa\desktop\c programming\exp2\main.c
+	<windows.h>
+	<stdio.h>
+

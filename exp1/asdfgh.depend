@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1770780701 source:c:\users\jaswa\desktop\c programming\asdfgh\main.c
+	<windows.h>
+	<stdio.h>
+
+1770780669 source:c:\users\jaswa\desktop\c programming\asdfgh\exp2.c
+	<windows.h>
+	<stdio.h>
+
+1770780754 source:c:\users\jaswa\desktop\c programming\asdfgh\exp3.c
+	<stdio.h>
+
+1770780701 source:c:\users\jaswa\desktop\c programming\exp1\main.c
+	<windows.h>
+	<stdio.h>
+
